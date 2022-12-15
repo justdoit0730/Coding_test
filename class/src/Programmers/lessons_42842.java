@@ -6,7 +6,7 @@ public class lessons_42842 {
 	public static void main(String[] args) {
 		int brown = 24;
 		int yellow = 24;
-		
+			
 		int []answer =new int [2];
 		int a=1;int b;
 
