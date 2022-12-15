@@ -23,6 +23,6 @@ public class lessons_42842 {
 		
 		System.out.println(answer[0]);
 		System.out.println(answer[1]);
-		
+
 	}
 }
