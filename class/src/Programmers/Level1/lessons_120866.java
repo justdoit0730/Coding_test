@@ -1,4 +1,4 @@
-package Programmers;
+package Programmers.Level1;
 
 import java.math.*;
 import java.util.*;
